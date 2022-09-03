@@ -1,6 +1,7 @@
 # Timilyze
 ## Device Usage Manager - With C# WPF
-<img width="500" height="280" align="right" src="https://user-images.githubusercontent.com/68808212/188172204-3d17e619-d370-4754-8766-225d84791001.png"/>  
+
+<img width="500" height="280" align="right" src="https://user-images.githubusercontent.com/68808212/188272946-c1ed2ecc-4de2-4898-b8f8-11c0ac04e03e.png"/>  
 
 ---
 
@@ -15,7 +16,8 @@
 * Im not collecting any private data 
 
 ---
-<img width="500" height="280" align="right" src="https://user-images.githubusercontent.com/68808212/188266469-14c34fe3-fabb-478b-83c6-ec6d6610acc8.png"/>  
+<img width="500" height="280" align="right" src="https://user-images.githubusercontent.com/68808212/188273011-38d0f79a-7cee-407c-b934-a1d3f90e1a41.png"/>  
+
 
 ### Account Properties
 
