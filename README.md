@@ -15,7 +15,7 @@
 * Im not collecting any private data 
 
 ---
-
+<img width="500" height="280" align="right" src="https://user-images.githubusercontent.com/68808212/188266469-14c34fe3-fabb-478b-83c6-ec6d6610acc8.png"/>  
 
 ### Account Properties
 
