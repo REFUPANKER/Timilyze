@@ -27,3 +27,6 @@
 |  Password    | string |
 |  Reminders   | string[] |
 |  Analyze     | int[] |
+
+
+### Download Link Coming Soon!!! 
